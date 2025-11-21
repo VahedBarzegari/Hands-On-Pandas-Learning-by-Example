@@ -177,8 +177,8 @@ pip install seaborn jupyter openpyxl
 Clone the project:
 
 ```bash
-git clone https://github.com/<your-username>/Pandas-by-Example.git
-cd Pandas-by-Example
+git clone https://github.com/VahedBarzegari/Hands-On-Pandas-Learning-by-Example.git
+cd Hands-On-Pandas-Learning-by-Example
 ```
 
 Open any folder and explore the examples.
