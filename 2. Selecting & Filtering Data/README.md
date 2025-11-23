@@ -42,19 +42,6 @@ We will cover the following subsections:
 
 ---
 
-### **5️⃣ Common Practical Examples**
-
-Real-world style examples including:
-
-* Filtering students by grades and attendance
-* Selecting transit trips based on time range and route
-* Updating values for missing or incorrect data
-* Selecting top-N records per group
-* Chained filtering and transformations
-
-> This subsection bridges the gap between theory and real applications.
-
----
 
 ### ✅ Outcome of This Section
 
@@ -63,5 +50,4 @@ After completing this section, you will be able to:
 ✔ Confidently select rows and columns using different approaches
 ✔ Filter datasets using simple and advanced conditions
 ✔ Modify and update values safely
-✔ Apply pandas filtering techniques to real-world datasets
 
