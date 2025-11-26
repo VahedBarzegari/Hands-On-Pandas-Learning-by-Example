@@ -10,9 +10,13 @@ In this section, you will learn how to convert, manipulate, filter, and analyze 
 By the end of this section, you will be able to:
 
 ✅ Convert non-datetime columns into proper datetime objects
+
 ✅ Extract useful components (year, month, hour…)
+
 ✅ Filter data using time ranges
+
 ✅ Compute time differences and durations
+
 ✅ Resample data into different time frequencies
 
 ---
@@ -79,8 +83,12 @@ You’ll learn how to:
 This section is especially useful for:
 
 ✅ Transit arrival/departure analysis
+
 ✅ Delay and headway calculations
+
 ✅ Daily/weekly performance tracking
+
 ✅ Monthly trend analysis
+
 ✅ Event log monitoring
 
