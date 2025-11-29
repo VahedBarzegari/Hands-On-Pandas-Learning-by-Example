@@ -62,8 +62,12 @@ You will learn how to:
 ## 🟦 **What You’ll Be Able to Do After This Section**
 
 ✔ Combine multiple datasets efficiently
+
 ✔ Perform SQL-style joins in pandas
+
 ✔ Append data from multiple files or tables
+
 ✔ Use index alignment to your advantage
+
 ✔ Understand the difference between merge, join, and concat
 
