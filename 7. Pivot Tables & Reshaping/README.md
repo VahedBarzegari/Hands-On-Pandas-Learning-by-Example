@@ -48,18 +48,3 @@ You will learn how to:
 * Understand hierarchical indexes
 * Work with partially stacked / unstacked structures
 
----
-
-### **7.5 Wide ↔ Long Conversion (Full Workflow)**
-
-You will learn:
-
-* Complete end-to-end reshaping workflows
-* Real-world patterns for:
-
-  * time-series
-  * survey data
-  * GTFS-like schedule tables
-  * ridership or count datasets
-* When to use each reshaping function
-
